@@ -3,7 +3,7 @@ package keys
 import (
 	"crypto/x509"
 	"encoding/pem"
-	"github.com/TicketsBot/data-self-service/internal/api"
+	"github.com/TicketsBot/export/internal/api"
 	"net/http"
 )
 

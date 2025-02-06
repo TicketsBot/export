@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/TicketsBot/data-self-service/internal/metrics"
+	"github.com/TicketsBot/export/internal/metrics"
 	"github.com/go-chi/chi/v5"
 	"net/http"
 )

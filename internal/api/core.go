@@ -3,9 +3,9 @@ package api
 import (
 	"context"
 	"encoding/json"
-	"github.com/TicketsBot/data-self-service/internal/artifactstore"
-	"github.com/TicketsBot/data-self-service/internal/config"
-	"github.com/TicketsBot/data-self-service/internal/repository"
+	"github.com/TicketsBot/export/internal/artifactstore"
+	"github.com/TicketsBot/export/internal/config"
+	"github.com/TicketsBot/export/internal/repository"
 	"github.com/go-playground/validator/v10"
 	"log/slog"
 	"net/http"

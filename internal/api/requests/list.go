@@ -2,9 +2,9 @@ package requests
 
 import (
 	"context"
-	"github.com/TicketsBot/data-self-service/internal/api"
-	"github.com/TicketsBot/data-self-service/internal/model"
-	"github.com/TicketsBot/data-self-service/internal/repository"
+	"github.com/TicketsBot/export/internal/api"
+	"github.com/TicketsBot/export/internal/model"
+	"github.com/TicketsBot/export/internal/repository"
 	"net/http"
 	"time"
 )

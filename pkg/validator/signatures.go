@@ -3,7 +3,7 @@ package validator
 import (
 	"archive/zip"
 	"crypto/ed25519"
-	"github.com/TicketsBot/data-self-service/internal/utils"
+	"github.com/TicketsBot/export/internal/utils"
 	"io"
 	"strconv"
 )

@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/TicketsBot/data-self-service/internal/api"
+	"github.com/TicketsBot/export/internal/api"
 	"io"
 	"net/http"
 	"slices"

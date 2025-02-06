@@ -3,11 +3,11 @@ package requests
 import (
 	"context"
 	"encoding/json"
-	"github.com/TicketsBot/data-self-service/internal/api"
-	"github.com/TicketsBot/data-self-service/internal/metrics"
-	"github.com/TicketsBot/data-self-service/internal/model"
-	"github.com/TicketsBot/data-self-service/internal/repository"
-	"github.com/TicketsBot/data-self-service/internal/utils"
+	"github.com/TicketsBot/export/internal/api"
+	"github.com/TicketsBot/export/internal/metrics"
+	"github.com/TicketsBot/export/internal/model"
+	"github.com/TicketsBot/export/internal/repository"
+	"github.com/TicketsBot/export/internal/utils"
 	"net/http"
 	"time"
 )

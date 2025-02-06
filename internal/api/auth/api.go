@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/TicketsBot/data-self-service/internal/api"
+	"github.com/TicketsBot/export/internal/api"
 	"net/http"
 	"time"
 )

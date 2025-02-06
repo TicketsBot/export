@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"github.com/TicketsBot/data-self-service/internal/config"
+	"github.com/TicketsBot/export/internal/config"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 

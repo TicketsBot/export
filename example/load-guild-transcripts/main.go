@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/TicketsBot/data-self-service/example/utils"
-	"github.com/TicketsBot/data-self-service/pkg/validator"
+	"github.com/TicketsBot/export/example/utils"
+	"github.com/TicketsBot/export/pkg/validator"
 	"os"
 )
 

@@ -2,12 +2,12 @@ package main
 
 import (
 	"context"
-	"github.com/TicketsBot/data-self-service/internal/api/router"
-	"github.com/TicketsBot/data-self-service/internal/artifactstore"
-	"github.com/TicketsBot/data-self-service/internal/config"
-	"github.com/TicketsBot/data-self-service/internal/metrics"
-	"github.com/TicketsBot/data-self-service/internal/repository"
-	"github.com/TicketsBot/data-self-service/internal/utils"
+	"github.com/TicketsBot/export/internal/api/router"
+	"github.com/TicketsBot/export/internal/artifactstore"
+	"github.com/TicketsBot/export/internal/config"
+	"github.com/TicketsBot/export/internal/metrics"
+	"github.com/TicketsBot/export/internal/repository"
+	"github.com/TicketsBot/export/internal/utils"
 	"github.com/aws/aws-sdk-go-v2/aws"
 	s3Config "github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/credentials"

@@ -4,8 +4,8 @@ import (
 	"context"
 	_ "embed"
 	"errors"
-	"github.com/TicketsBot/data-self-service/internal/model"
-	"github.com/TicketsBot/data-self-service/internal/utils"
+	"github.com/TicketsBot/export/internal/model"
+	"github.com/TicketsBot/export/internal/utils"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5"
 )

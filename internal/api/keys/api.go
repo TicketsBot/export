@@ -2,7 +2,7 @@ package keys
 
 import (
 	"crypto/ed25519"
-	"github.com/TicketsBot/data-self-service/internal/api"
+	"github.com/TicketsBot/export/internal/api"
 )
 
 type API struct {
